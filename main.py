@@ -12,7 +12,7 @@ if __name__=='__main__':
 	print(len(files))
 
 	min_contour_area = 100  # Adjust as needed
-	similarity_threshold = 100000  # Adjust as needed
+	similarity_threshold = 50000  # Adjust as needed
 	deleted_files = 0
 
 
